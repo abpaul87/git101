@@ -9,6 +9,10 @@ font-family: Helvetica;
 	width: 160px;
 }
 
+h1 {
+	font-weight: 100;
+}
+
 .container {
 	display:flex;
 	align-items: center;
